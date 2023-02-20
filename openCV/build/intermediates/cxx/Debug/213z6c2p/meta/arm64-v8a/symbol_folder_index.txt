@@ -1,0 +1,1 @@
+C:\Users\HP\AndroidStudioProjects\VLCproject\openCV\build\intermediates\cxx\Debug\213z6c2p\obj\arm64-v8a
